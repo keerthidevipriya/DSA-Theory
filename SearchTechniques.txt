@@ -1,0 +1,15 @@
+Searching Techniques
+
+Linear Searching
+
+
+
+Binary Searching
+
+
+
+BFS(Breadth First Search)
+
+
+
+DFS(Depth First Search)
